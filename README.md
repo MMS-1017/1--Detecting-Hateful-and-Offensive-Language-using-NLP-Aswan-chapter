@@ -1,2 +1,2 @@
 # 1--Detecting-Hateful-and-Offensive-Language-using-NLP-Aswan-chapter
-I participated with Omenda team to 
+This project aims to detect hateful and offensive language in text data using Natural Language Processing (NLP) techniques. By leveraging machine learning models and text preprocessing strategies, this system classifies language in social media posts, comments, or other text sources as offensive or non-offensive, allowing for better moderation and understanding of online discourse.
